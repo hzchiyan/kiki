@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: プライバシーポリシー
 include_in_header: false
 ---
 
@@ -15,7 +15,7 @@ include_in_header: false
 
 
 
-**1. 個人情報の定義
+** 1. 個人情報の定義
 
 **
 
