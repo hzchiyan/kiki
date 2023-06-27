@@ -4,57 +4,253 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+## プライバシーポリシー  
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+**個人情報保護方針**
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
 
-<br>
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+株式会社kiki（以下「当社」といいます。）は、個人情報保護の重要性について認識し、個人情報の保護に関する法律（以下「個人情報保護法」といいます。）を遵守すると共に、以下のプライバシーポリシー（以下「本プライバシーポリシー」といいます。）に従い、適切な取扱い及び保護に努めます。なお、本プライバシーポリシーにおいて別段の定めがない限り、本プライバシーポリシーにおける用語の定義は、個人情報保護法の定めに従います。
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
 
-<br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+**1. 個人情報の定義
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+**
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+本プライバシーポリシーにおいて、個人情報とは、個人情報保護法第2条第1項により定義される個人情報を意味するものとします。
 
-<br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+**2. 個人情報の利用目的
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+**
 
-<br>
+当社は、個人情報を以下の目的で利用いたします。
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+1.当社が提供するサービス（以下「本サービス」といいます。）の提供のため
 
-<br>
+2.ログイン時における本人認証、その他本サービスの運営に必要なユーザー情報の管理のため
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+3.本サービスに関するご案内、お問い合せ等への対応のため
+
+4.当社の商品、本サービスのご案内のため
+
+5.本サービスに関する当社の規約、ポリシー等（以下「規約等」といいます。）に違反する行為に対する対応のため
+
+6.本サービスに関する紛争及び訴訟等に対応するため
+
+7.本サービスに関する規約等の変更などを通知するため
+
+8.ユーザーの本サービスの利用の状況等に関する情報を分析し、ユーザーの年齢、職業、性別、趣味等に合わせて、広告配信をカスタマイズするため
+
+9.ユーザーの本サービスの利用の状況等に関する情報を分析、ヒアリングして本サービスの改善、新サービスの開発等に役立てるため
+
+10.本サービスに関連して、個人を識別できない形式に加工した統計データを作成するため
+
+11.その他、上記利用目的に付随する目的のため
+
+
+
+**3. 個人情報の収集方法等**
+
+3.1 当社は、本サービスの提供にあたり、本サービスのユーザーから、以下の情報を、以下の方法により収集します。
+
+1.収集する情報
+①ユーザーが本サービスを利用するためのID・パスワード、ユーザーの情報を取得する際に必要となるコンテンツサイトのID・パスワード、その他ユーザーが登録する特定の個人を識別できる情報
+② 端末ID、その他ユーザーを特定の個人として識別できるアクセスログ
+
+2.収集方法
+① 本サービス上でユーザーが入力する方法
+② 本サービスに関するお問い合わせフォーム上でユーザーが入力する方法
+③ 本サービスをユーザーが利用した際に収集する方法
+
+3.2  当社は、本サービスの提供期間中、及び本サービスの提供終了後も、第3.1項（1）に定める情報を保持します。但し、当該情報を利用する必要がなくなったときは、当該情報を遅滞なく消去するよう努めます。
+
+
+
+**4. 個人情報利用目的の変更
+
+**
+
+当社は、個人情報の利用目的を関連性を有すると合理的に認められる範囲内において変更することがあり、変更した場合には個人情報の主体である個人（以下「本人」といいます。）に通知し又は公表します。
+
+
+
+**5. 個人情報利用**
+
+5.1 当社は、個人情報保護法その他の法令により許容される場合を除き、本人の同意を得ず、利用目的の達成に必要な範囲を超えて個人情報を取り扱いません。但し、次の場合はこの限りではありません。
+
+1.法令に基づく場合
+
+2.人の生命、身体又は財産の保護のために必要がある場合であって、本人の同意を得ることが困難であるとき
+
+3.公衆衛生の向上又は児童の健全な育成の推進のために特に必要がある場合であって、本人の同意を得ることが困難であるとき
+
+4.国の機関もしくは地方公共団体又はその委託を受けた者が法令の定める事務を遂行することに対して協力する必要がある場合であって、本人の同意を得ることにより当該事務の遂行に支障を及ぼすおそれがあるとき
+
+5.学術研究機関等に個人データを提供する場合であって、当該学術研究機関等が当該個人データを学術研究目的で取り扱う必要があるとき（当該個人データを取り扱う目的の一部が学術研究目的である場合を含み、個人の権利利益を不当に侵害するおそれがある場合を除く。）
+
+\5. 2 当社は、違法又は不当な行為を助長し、又は誘発するおそれがある方法により個人情報を利用しません。
+
+
+
+**6. 個人情報の適正な取得
+
+**
+
+6.1 当社は、適正に個人情報を取得し、偽りその他不正の手段により取得しません。
+
+6.2 当社は、次の場合を除き、あらかじめ本人の同意を得ないで、要配慮個人情報（個人情報保護法第2条第3項に定義されるものを意味します。）を取得しません。
+
+1.第5.1項第1号から第4号までのいずれかに該当する場合
+
+2.学術研究機関等から要配慮個人情報を取得する場合であって、当該要配慮個人情報を学術研究目的で取得する必要があるとき（当該要配慮個人情報を取得する目的の一部が学術研究目的である場合を含み、個人の権利利益を不当に侵害するおそれがある場合を除く。）（当該個人情報取扱事業者と当該学術研究機関等が共同して学術研究を行う場合に限る。）
+
+3.当該要配慮個人情報が、本人、国の機関、地方公共団体、学術研究機関等、個人情報保護法第57条第1項各号に掲げる者その他個人情報保護委員会規則で定める者により公開されている場合
+
+4.本人を目視し、又は撮影することにより、その外形上明らかな要配慮個人情報を取得する場合
+
+5.第三者から要配慮個人情報の提供を受ける場合であって、当該第三者による当該提供が第9.1項各号のいずれかに該当するとき
+
+6.3 当社は、第三者から個人情報の提供を受けるに際しては、個人情報保護委員会規則で定めるところにより、次に掲げる事項の確認を行います。ただし、当該第三者による当該個人情報の提供が第5.1項各号のいずれかに該当する場合又は第9.1項各号のいずれかに該当する場合を除きます。
+
+1.当該第三者の氏名又は名称及び住所、並びに法人の場合はその代表者（法人でない団体で代表者又は管理人の定めのあるものの場合は、その代表者又は管理人）の氏名
+
+2.当該第三者による当該個人情報の取得の経緯
+
+
+
+**7. 個人情報の安全管理
+
+**
+
+当社は、個人情報の紛失、破壊、改ざん及び漏洩などのリスクに対して、個人情報の安全管理が図られるよう、当社の従業員に対し、必要かつ適切な監督を行います。また、当社は、個人情報の取扱いの全部又は一部を委託する場合は、委託先において個人情報の安全管理が図られるよう、必要かつ適切な監督を行います。当社の保有個人データに関する具体的な安全管理措置の内容は、以下のとおりです。
+
+**基本方針の策定**
+
+個人データの適正な取扱いの確保のため、「関係法令・ガイドライン等の遵守」、「質問及び苦情処理の窓口」等についての基本方針として、本プライバシーポリシーを策定
+
+**個人データの取扱いに係る規律の整備**
+
+個人データを取扱う際の取扱方法、責任者・担当者、及びその任務等について定めた取扱規程を策定
+
+**組織的安全管理措置**
+
+・個人データの内容に応じた保管場所・保管要件の明確化
+・個人データ等の取扱状況について、社内セキュリティレビューの実施
+・個人データ等の漏えい等、インシデントが発生した場合における対応フローや調査・報告の体制を整備
+
+**人的安全管理措置**
+
+個人データを含む情報セキュリティに関する研修・訓練等の社内教育を定期的に実施
+
+**物理的安全管理措置**
+
+個人データなどが記載・記録された書類や電子記録媒体等を破棄等する際は、復元不可能又は容易に復元できない方法で実施
+
+**技術的安全管理措置**
+
+クラウド上にある個人情報等へのアクセス権限を付与する従業員を限定する等、アクセス制御を実施。当該IDに紐づけて記録した各種ログ情報から個人データ等にアクセスした者の識別と認証を行う。
+
+
+
+**8. 漏洩時の報告等**
+
+当社は、当社の取り扱う個人情報の漏洩、滅失、毀損等の事態が生じた場合において、個人情報保護法の定めに基づき個人情報保護委員会への報告及び本人への通知を要する場合には、かかる報告及び通知を行います。
+
+
+
+**9. 第三者提供**
+
+9.1 当社は、第5.1項各号のいずれかに該当する場合を除くほか、あらかじめ本人の同意を得ないで、個人情報を第三者に提供しません。但し、次に掲げる場合は上記に定める第三者への提供には該当しません。 
+
+1.利用目的の達成に必要な範囲内において個人情報の取扱いの全部又は一部を委託することに伴って個人情報を提供する場合
+
+2.合併その他の事由による事業の承継に伴って個人情報が提供される場合
+
+3.個人情報保護法の定めに基づき共同利用する場合
+
+9.2 第9.1項の定めにかかわらず、当社は、第5.1項各号のいずれかに該当する場合を除くほか、外国（個人情報保護法第28条に基づき個人情報保護委員会規則で指定される国を除きます。）にある第三者（個人情報保護法第28条に基づき個人情報保護委員会規則で指定される基準に適合する体制を整備している者を除きます。）に個人情報を提供する場合には、あらかじめ外国にある第三者への提供を認める旨の本人の同意を得るものとします。
+
+
+
+9.3 第9.2項に基づき外国にある第三者への提供につき本人の同意を得る場合、以下の事項について本人に情報を提供するものとします。但し、第1号の事項が特定できない場合、第1号及び第2号の事項に代えて、第1号の事項が特定できない旨及びその理由、並びに当該事項に代わる本人に参考となるべき情報があれば当該情報を提供するものとします。
+
+1.当該外国の名称
+
+2.当該外国における個人情報の保護に関する制度に関する情報
+
+3.当該第三者が講じる個人情報の保護のための措置に関する情報（当該情報を提供できない場合は、その旨及びその理由）
+
+9.4 当社は、個人情報を第三者に提供したときは、個人情報保護法第29条に従い、記録の作成及び保存を行います。
+
+9.5 当社は、第三者から個人情報の提供を受けるに際しては、個人情報保護法第30条に従い、必要な確認を行い、当該確認にかかる記録の作成及び保存を行うものとします。
+
+
+
+**10．個人情報等の開示**
+
+10.1 当社は、本人から、個人情報保護法の定めに基づき個人情報の開示を求められたときは、本人ご自身からのご請求であることを確認の上で、本人に対し、遅滞なく開示を行います（当該個人情報が存在しないときにはその旨を通知いたします。）。但し、個人情報保護法その他の法令により、当社が開示の義務を負わない場合は、この限りではありません。
+
+10.2 前項の定めは、本人が識別される個人情報にかかる、第9.4項に基づき作成した第三者への提供にかかる記録及び第9.5項に基づき作成した第三者からの提供にかかる記録について準用するものとします。
+
+
+
+**11．個人情報の訂正等
+
+**
+
+当社は、本人から、個人情報が真実でないという理由によって、個人情報保護法の定めに基づきその内容の訂正、追加又は削除（以下「訂正等」といいます。）を求められた場合には、本人ご自身からのご請求であることを確認の上で、利用目的の達成に必要な範囲内において、遅滞なく必要な調査を行い、その結果に基づき、個人情報の内容の訂正等を行い、その旨を本人に通知します（訂正等を行わない旨の決定をしたときは、本人に対しその旨を通知いたします。）。但し、個人情報保護法その他の法令により、当社が訂正等の義務を負わない場合は、この限りではありません。
+
+
+
+**12．個人情報の利用停止等
+
+**
+
+当社は、本人から、(1)本人の個人情報が、あらかじめ公表された利用目的の範囲を超えて取り扱われている、若しくは違法若しくは不当な行為を助長し、若しくは誘発するおそれがある方法により利用されているという理由により、又は本人の個人情報が偽りその他不正の手段により取得されたものであるという理由により、個人情報保護法の定めに基づきその利用の停止又は消去（以下「利用停止等」といいます。）を求められた場合、(2)個人情報がご本人の同意なく第三者に提供されているという理由により、個人情報保護法の定めに基づきその提供の停止（以下「提供停止」といいます。）を求められた場合、又は(3)当社が本人の個人情報を利用する必要がなくなった場合、本人の個人情報にかかる個人情報保護法第26条第1項本文に規定する事態が生じた場合その他本人の個人情報の取扱により本人の権利又は正当な利益が害されるおそれがある場合に該当するという理由により、個人情報保護法の定めに基づきその利用停止等又は提供停止を求められた場合において、そのご請求に理由があることが判明した場合には、本人ご自身からのご請求であることを確認の上で、遅滞なく個人情報の利用停止等又は提供停止を行い、その旨を本人に通知します。但し、個人情報保護法その他の法令により、当社が利用停止等又は提供停止の義務を負わない場合は、この限りではありません。
+
+
+
+**13. 個人関連情報の第三者提供
+
+**
+
+13.1 当社は、第三者が個人関連情報（個人情報保護法第2条第7項に定めるものを意味し、同法第16条第7項に定める個人関連情報データベース等を構成するものに限ります。以下同じ。）を個人データとして取得することが想定されるときは、第5.1項各号に掲げる場合を除くほか、次に掲げる事項について、あらかじめ個人情報保護委員会規則で定めるところにより確認することをしないで、当該個人関連情報を当該第三者に提供しません。
+
+1.当該第三者が当社から個人関連情報の提供を受けて本人が識別される個人データとして取得することを認める旨の本人の同意が得られていること。
+
+2.外国にある第三者への提供にあっては、前号の本人の同意を得ようとする場合において、個人情報保護委員会規則で定めるところにより、あらかじめ、当該外国における個人情報の保護に関する制度、当該第三者が講ずる個人情報の保護のための措置その他本人に参考となるべき情報が本人に提供されていること。
+
+9.2 第9.1項の定めにかかわらず、当社は、第5.1項各号のいずれかに該当する場合を除くほか、外国（個人情報保護法第28条に基づき個人情報保護委員会規則で指定される国を除きます。）にある第三者（個人情報保護法第28条に基づき個人情報保護委員会規則で指定される基準に適合する体制を整備している者を除きます。）に個人情報を提供する場合には、あらかじめ外国にある第三者への提供を認める旨の本人の同意を得るものとします。
+
+13.2 当社は、個人関連情報を第三者に提供したときは、個人情報保護法第31条に従い、記録の作成及び保存を行います。
+
+13.3 当社は、第三者から個人関連情報の提供を受けるに際しては、個人情報保護法第31条に従い、必要な確認を行い、当該確認にかかる記録の作成及び保存を行うものとします。
+
+
+
+**14. Cookie（クッキー）その他の技術の利用
+
+**
+
+14.1 本サービスは、Cookie及びこれに類する技術を利用することがあります。これらの技術は、当社による本サービスの利用状況等の把握に役立ち、サービス向上に資するものです。Cookieを無効化されたいユーザーは、ウェブブラウザの設定を変更することによりCookieを無効化することができます。但し、Cookieを無効化すると、本サービスの一部の機能をご利用いただけなくなる場合があります。
+
+14.2 当社は、Googleアナリティクスを使用することがあります。Googleアナリティクスはデータの収集のためにCookie及びこれに類する技術を利用することがあります。当該データの収集は個人情報として使用又は認識できる情報ではありません。Googleアナリティクスで当該データが収集、処理される仕組みにつきましては、下記をご確認下さい。
+
+
+
+https://policies.google.com/technologies/partner-sites?hl=ja
+
+**15. 継続的改善
+
+**
+
+当社は、個人情報の取扱いに関する運用状況を適宜見直し、継続的な改善に努めるものとし、必要に応じて、本プライバシーポリシーを変更することがあります。
+
+
+
+2023年6月1日 制定
+2023年7月1日改定
