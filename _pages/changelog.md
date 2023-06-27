@@ -1,6 +1,6 @@
 ---
-layout: page
-title: What's New
+# layout: page
+# title: What's New
 # include_in_header: true
 ---
 
